@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2890625" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/drawable/ic_add.xml" value="0.2890625" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/drawable/ic_delete.xml" value="0.2890625" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/drawable/ic_done.xml" value="0.2890625" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/drawable/ic_edit.xml" value="0.2890625" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2890625" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/layout-land/fragment_add_student.xml" value="0.26278659611992944" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/layout/add_student_to_subject_row.xml" value="0.28958333333333336" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/layout/add_subject_to_student_row.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/layout/custom_row.xml" value="0.35144927536231885" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/layout/fragment_add_studens.xml" value="0.196875" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/layout/fragment_add_student.xml" value="0.22" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/layout/fragment_add_student_subject_relation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/layout/fragment_add_students.xml" value="0.196875" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/layout/fragment_add_studenttt.xml" value="0.196875" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/layout/fragment_add_subject.xml" value="0.30027173913043476" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/layout/fragment_blank.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/layout/fragment_home_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/layout/fragment_students_from_subject_list.xml" value="0.3776041666666667" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/layout/fragment_students_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/layout/fragment_subjects_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/layout/fragment_update.xml" value="0.33" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/layout/fragment_update_student.xml" value="0.5" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/layout/students_from_subject.xml" value="0.33" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/layout/students_row.xml" value="0.28958333333333336" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/layout/subjects_of_student.xml" value="0.28958333333333336" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/layout/subjects_row.xml" value="0.33" />
+        <entry key="..\:/Users/tosia/Programowanie/projects/Teacher_helper/app/src/main/res/menu/delete_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
